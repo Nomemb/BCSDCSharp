@@ -1,0 +1,6 @@
+C:\UNITYST\UNITYST\03CodeReading\bin\Debug\03CodeReading.exe.config
+C:\UNITYST\UNITYST\03CodeReading\bin\Debug\03CodeReading.exe
+C:\UNITYST\UNITYST\03CodeReading\bin\Debug\03CodeReading.pdb
+C:\UNITYST\UNITYST\03CodeReading\obj\Debug\03CodeReading.csproj.CoreCompileInputs.cache
+C:\UNITYST\UNITYST\03CodeReading\obj\Debug\03CodeReading.exe
+C:\UNITYST\UNITYST\03CodeReading\obj\Debug\03CodeReading.pdb

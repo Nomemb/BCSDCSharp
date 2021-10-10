@@ -1,0 +1,7 @@
+C:\UNITYST\UNITYST\08FuncEx\bin\Debug\08FuncEx.exe.config
+C:\UNITYST\UNITYST\08FuncEx\bin\Debug\08FuncEx.exe
+C:\UNITYST\UNITYST\08FuncEx\bin\Debug\08FuncEx.pdb
+C:\UNITYST\UNITYST\08FuncEx\obj\Debug\08FuncEx.csprojAssemblyReference.cache
+C:\UNITYST\UNITYST\08FuncEx\obj\Debug\08FuncEx.csproj.CoreCompileInputs.cache
+C:\UNITYST\UNITYST\08FuncEx\obj\Debug\08FuncEx.exe
+C:\UNITYST\UNITYST\08FuncEx\obj\Debug\08FuncEx.pdb
