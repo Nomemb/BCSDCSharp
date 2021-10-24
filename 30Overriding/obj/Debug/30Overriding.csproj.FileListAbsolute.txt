@@ -1,0 +1,7 @@
+C:\UNITYST\UNITYST\30Overriding\bin\Debug\30Overriding.exe.config
+C:\UNITYST\UNITYST\30Overriding\bin\Debug\30Overriding.exe
+C:\UNITYST\UNITYST\30Overriding\bin\Debug\30Overriding.pdb
+C:\UNITYST\UNITYST\30Overriding\obj\Debug\30Overriding.csprojAssemblyReference.cache
+C:\UNITYST\UNITYST\30Overriding\obj\Debug\30Overriding.csproj.CoreCompileInputs.cache
+C:\UNITYST\UNITYST\30Overriding\obj\Debug\30Overriding.exe
+C:\UNITYST\UNITYST\30Overriding\obj\Debug\30Overriding.pdb

@@ -1,0 +1,6 @@
+C:\Users\nkc02\source\repos\21Struct\22Enum\bin\Debug\22Enum.exe.config
+C:\Users\nkc02\source\repos\21Struct\22Enum\bin\Debug\22Enum.exe
+C:\Users\nkc02\source\repos\21Struct\22Enum\bin\Debug\22Enum.pdb
+C:\Users\nkc02\source\repos\21Struct\22Enum\obj\Debug\22Enum.csproj.CoreCompileInputs.cache
+C:\Users\nkc02\source\repos\21Struct\22Enum\obj\Debug\22Enum.exe
+C:\Users\nkc02\source\repos\21Struct\22Enum\obj\Debug\22Enum.pdb

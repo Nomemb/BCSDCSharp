@@ -1,0 +1,7 @@
+C:\UNITYST\UNITYST\15StaticClass\obj\Debug\15StaticClass.csprojAssemblyReference.cache
+C:\UNITYST\UNITYST\15StaticClass\obj\Debug\15StaticClass.csproj.CoreCompileInputs.cache
+C:\UNITYST\UNITYST\15StaticClass\bin\Debug\15StaticClass.exe.config
+C:\UNITYST\UNITYST\15StaticClass\bin\Debug\15StaticClass.exe
+C:\UNITYST\UNITYST\15StaticClass\bin\Debug\15StaticClass.pdb
+C:\UNITYST\UNITYST\15StaticClass\obj\Debug\15StaticClass.exe
+C:\UNITYST\UNITYST\15StaticClass\obj\Debug\15StaticClass.pdb

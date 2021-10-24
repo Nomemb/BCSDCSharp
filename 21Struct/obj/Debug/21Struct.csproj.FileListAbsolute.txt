@@ -1,0 +1,7 @@
+C:\Users\nkc02\source\repos\21Struct\21Struct\bin\Debug\21Struct.exe.config
+C:\Users\nkc02\source\repos\21Struct\21Struct\bin\Debug\21Struct.exe
+C:\Users\nkc02\source\repos\21Struct\21Struct\bin\Debug\21Struct.pdb
+C:\Users\nkc02\source\repos\21Struct\21Struct\obj\Debug\21Struct.csprojAssemblyReference.cache
+C:\Users\nkc02\source\repos\21Struct\21Struct\obj\Debug\21Struct.csproj.CoreCompileInputs.cache
+C:\Users\nkc02\source\repos\21Struct\21Struct\obj\Debug\21Struct.exe
+C:\Users\nkc02\source\repos\21Struct\21Struct\obj\Debug\21Struct.pdb

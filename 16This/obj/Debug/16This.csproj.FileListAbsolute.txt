@@ -1,0 +1,6 @@
+C:\UNITYST\UNITYST\16This\bin\Debug\16This.exe.config
+C:\UNITYST\UNITYST\16This\bin\Debug\16This.exe
+C:\UNITYST\UNITYST\16This\bin\Debug\16This.pdb
+C:\UNITYST\UNITYST\16This\obj\Debug\16This.csproj.CoreCompileInputs.cache
+C:\UNITYST\UNITYST\16This\obj\Debug\16This.exe
+C:\UNITYST\UNITYST\16This\obj\Debug\16This.pdb
