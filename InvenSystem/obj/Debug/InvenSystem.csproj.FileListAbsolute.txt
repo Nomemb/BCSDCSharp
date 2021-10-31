@@ -1,0 +1,7 @@
+C:\Users\nkc02\source\repos\21Struct\InvenSystem\bin\Debug\InvenSystem.exe.config
+C:\Users\nkc02\source\repos\21Struct\InvenSystem\bin\Debug\InvenSystem.exe
+C:\Users\nkc02\source\repos\21Struct\InvenSystem\bin\Debug\InvenSystem.pdb
+C:\Users\nkc02\source\repos\21Struct\InvenSystem\obj\Debug\InvenSystem.csprojAssemblyReference.cache
+C:\Users\nkc02\source\repos\21Struct\InvenSystem\obj\Debug\InvenSystem.csproj.CoreCompileInputs.cache
+C:\Users\nkc02\source\repos\21Struct\InvenSystem\obj\Debug\InvenSystem.exe
+C:\Users\nkc02\source\repos\21Struct\InvenSystem\obj\Debug\InvenSystem.pdb

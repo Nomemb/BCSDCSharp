@@ -1,0 +1,7 @@
+C:\UNITYST\UNITYST\36Generic\bin\Debug\36Generic.exe.config
+C:\UNITYST\UNITYST\36Generic\bin\Debug\36Generic.exe
+C:\UNITYST\UNITYST\36Generic\bin\Debug\36Generic.pdb
+C:\UNITYST\UNITYST\36Generic\obj\Debug\36Generic.csprojAssemblyReference.cache
+C:\UNITYST\UNITYST\36Generic\obj\Debug\36Generic.csproj.CoreCompileInputs.cache
+C:\UNITYST\UNITYST\36Generic\obj\Debug\36Generic.exe
+C:\UNITYST\UNITYST\36Generic\obj\Debug\36Generic.pdb

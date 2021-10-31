@@ -1,0 +1,2 @@
+C:\Users\nkc02\source\repos\21Struct\26Property\obj\Debug\26Property.csprojAssemblyReference.cache
+C:\Users\nkc02\source\repos\21Struct\26Property\obj\Debug\26Property.csproj.CoreCompileInputs.cache

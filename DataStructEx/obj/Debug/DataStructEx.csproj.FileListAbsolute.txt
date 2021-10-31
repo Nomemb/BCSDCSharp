@@ -1,0 +1,7 @@
+C:\Users\nkc02\source\repos\21Struct\DataStructEx\bin\Debug\DataStructEx.exe.config
+C:\Users\nkc02\source\repos\21Struct\DataStructEx\bin\Debug\DataStructEx.exe
+C:\Users\nkc02\source\repos\21Struct\DataStructEx\bin\Debug\DataStructEx.pdb
+C:\Users\nkc02\source\repos\21Struct\DataStructEx\obj\Debug\DataStructEx.csprojAssemblyReference.cache
+C:\Users\nkc02\source\repos\21Struct\DataStructEx\obj\Debug\DataStructEx.csproj.CoreCompileInputs.cache
+C:\Users\nkc02\source\repos\21Struct\DataStructEx\obj\Debug\DataStructEx.exe
+C:\Users\nkc02\source\repos\21Struct\DataStructEx\obj\Debug\DataStructEx.pdb

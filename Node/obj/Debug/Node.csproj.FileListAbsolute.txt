@@ -1,0 +1,7 @@
+C:\Users\nkc02\source\repos\21Struct\Node\bin\Debug\Node.exe.config
+C:\Users\nkc02\source\repos\21Struct\Node\bin\Debug\Node.exe
+C:\Users\nkc02\source\repos\21Struct\Node\bin\Debug\Node.pdb
+C:\Users\nkc02\source\repos\21Struct\Node\obj\Debug\Node.csprojAssemblyReference.cache
+C:\Users\nkc02\source\repos\21Struct\Node\obj\Debug\Node.csproj.CoreCompileInputs.cache
+C:\Users\nkc02\source\repos\21Struct\Node\obj\Debug\Node.exe
+C:\Users\nkc02\source\repos\21Struct\Node\obj\Debug\Node.pdb

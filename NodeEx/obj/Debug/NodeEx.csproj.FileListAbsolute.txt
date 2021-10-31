@@ -1,0 +1,6 @@
+C:\Users\nkc02\source\repos\21Struct\NodeEx\bin\Debug\NodeEx.exe.config
+C:\Users\nkc02\source\repos\21Struct\NodeEx\bin\Debug\NodeEx.exe
+C:\Users\nkc02\source\repos\21Struct\NodeEx\bin\Debug\NodeEx.pdb
+C:\Users\nkc02\source\repos\21Struct\NodeEx\obj\Debug\NodeEx.csproj.CoreCompileInputs.cache
+C:\Users\nkc02\source\repos\21Struct\NodeEx\obj\Debug\NodeEx.exe
+C:\Users\nkc02\source\repos\21Struct\NodeEx\obj\Debug\NodeEx.pdb
