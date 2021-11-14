@@ -1,0 +1,7 @@
+C:\Users\nkj12\source\repos\SpaceInvader\SpaceInvader\obj\Debug\SpaceInvader.csprojAssemblyReference.cache
+C:\Users\nkj12\source\repos\SpaceInvader\SpaceInvader\obj\Debug\SpaceInvader.csproj.CoreCompileInputs.cache
+C:\Users\nkj12\source\repos\SpaceInvader\SpaceInvader\bin\Debug\SpaceInvader.exe.config
+C:\Users\nkj12\source\repos\SpaceInvader\SpaceInvader\bin\Debug\SpaceInvader.exe
+C:\Users\nkj12\source\repos\SpaceInvader\SpaceInvader\bin\Debug\SpaceInvader.pdb
+C:\Users\nkj12\source\repos\SpaceInvader\SpaceInvader\obj\Debug\SpaceInvader.exe
+C:\Users\nkj12\source\repos\SpaceInvader\SpaceInvader\obj\Debug\SpaceInvader.pdb
